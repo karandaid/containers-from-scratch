@@ -1,0 +1,12 @@
+# Compiled binary
+gocker
+
+# Root filesystems
+gocker-root/
+ubuntu-root/
+
+# Tarballs
+*.tar.gz
+
+# OS files
+.DS_Store
